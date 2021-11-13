@@ -9,9 +9,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features
+ - Popular Movies based on ratings
+ - Quick Search 
+ - Movie Desciption Page (Category, Rating, Director(s) & Running time)
+ - Movie Actors Thumbnails
+ - Session Storage
+
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
